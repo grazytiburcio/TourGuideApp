@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listItemHeight">250dp</dimen>
+    <dimen name="imageViewMargin">20dp</dimen>
+    <dimen name="textViewMarginLeft">20dp</dimen>
+    <dimen name="textViewMarginStart">20dp</dimen>
+    <dimen name="textViewMarginTop">10dp</dimen>
+</resources>

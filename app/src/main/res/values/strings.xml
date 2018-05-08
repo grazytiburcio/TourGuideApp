@@ -1,0 +1,53 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_city">City</string>
+
+    <!-- Category name for beaches [CHAR LIMIT=20] -->
+    <string name="category_beaches">Beaches</string>
+
+    <!-- Category name for eat [CHAR LIMIT=20] -->
+    <string name="category_eat">Eat</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Place name for vale do olival beach [CHAR LIMIT=20] -->
+    <string name="vale_olival_beach">Vale Olival Beach</string>
+
+    <!-- Place name for senhora da rocha beach [CHAR LIMIT=20] -->
+    <string name="senhora_da_rocha_beach">Senhora da Rocha Beach</string>
+
+    <!-- Place name for pescadores beach [CHAR LIMIT=20] -->
+    <string name="pescadores_beach">Pescadores Beach</string>
+
+    <!-- Place name for legend "view of the city" [CHAR LIMIT=20] -->
+    <string name="view_of_the_city">View of the city</string>
+
+    <!-- Place name for legend "armacao de pera fort" [CHAR LIMIT=20] -->
+    <string name="armacao_de_pera_fort">Armacao de Pera Fort</string>
+
+    <!-- Place name for legend "inside the city" [CHAR LIMIT=20] -->
+    <string name="inside_the_city">Inside the city</string>
+
+    <!-- Place name for rocha da palha restaurant [CHAR LIMIT=20] -->
+    <string name="rocha_da_palha_restaurant">Rocha da Palha Restaurant</string>
+
+    <!-- Place name for olivalmar restaurant [CHAR LIMIT=20] -->
+    <string name="olivalmar_restaurant">Olivalmar Restaurant</string>
+
+    <!-- Place name for coentros restaurant [CHAR LIMIT=20] -->
+    <string name="coentros_restaurant">Coentros Restaurant</string>
+
+    <!-- Place name for holiday inn hotel [CHAR LIMIT=20] -->
+    <string name="holidayinn_hotel">Holiday Inn Hotel</string>
+
+    <!-- Place name for lindomar hotel [CHAR LIMIT=20] -->
+    <string name="lindomar_hotel">Lindomar Hotel</string>
+
+    <!-- Place name for rosa mar hotel [CHAR LIMIT=20] -->
+    <string name="rosa_mar_hotel">Rosa Mar Hotel</string>
+
+</resources>
