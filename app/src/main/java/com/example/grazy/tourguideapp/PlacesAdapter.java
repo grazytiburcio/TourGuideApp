@@ -39,13 +39,13 @@ public class PlacesAdapter extends ArrayAdapter<Places> {
         Places currentPlace = getItem(position);
 
         // Find the TextView in the list_item.xml layout with the ID place_name.
-        TextView placeNameTextView = (TextView) listItemView.findViewById(R.id.place_name);
+        TextView placeNameTextView = listItemView.findViewById(R.id.place_name);
         // Get the name of the place from the currentPlace object and set this text on
         // the place_name TextView.
         placeNameTextView.setText(currentPlace.getPlaceName());
 
         // Find the ImageView in the list_item.xml layout with the ID place_image.
-        ImageView placeImageView = (ImageView) listItemView.findViewById(R.id.place_image);
+        ImageView placeImageView = listItemView.findViewById(R.id.place_image);
         // Get the image of the place from the currentPlace object and set this image on
         // the place_image ImageView.
         placeImageView.setImageResource(currentPlace.getImageResourceId());
